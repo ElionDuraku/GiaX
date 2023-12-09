@@ -5175,6 +5175,8 @@ label {
 .contact-info-item .content a {
 	display: block;
 	color: var(--tg-heading-font-color);
+	/* font-size: 13px; */
+	
 }
 .contact-info-item .content a:hover {
 	color: var(--tg-primary-color);
